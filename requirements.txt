@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-plotly
-matplotlib
-seaborn
-scikit-learn==1.0.2
-base64
-os
