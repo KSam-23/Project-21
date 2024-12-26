@@ -3,3 +3,4 @@ pandas
 plotly  # If you're using Plotly for the charts
 numpy
 pillow  # For image processing
+matplotlib
