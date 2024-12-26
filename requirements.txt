@@ -1,25 +1,9 @@
 streamlit
 pandas
-plotly
 numpy
-pillow
+plotly
 matplotlib
 seaborn
-sklearn
-plotly.express
-plotly.graph_objects
-plotly.subplots
-scipy
-opencv-python
-openpyxl
-beautifulsoup4
-requests
-json5
-joblib  # for ML model saving/loading
-statsmodels  # for time series analysis
-PyYAML
-tensorflow  # if you're using deep learning
-torch  # if you're using PyTorch
-streamlit-lottie  # for animations
-streamlit-option-menu  # for custom navigation
 scikit-learn
+base64
+os
