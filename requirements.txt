@@ -5,7 +5,7 @@ numpy
 pillow
 matplotlib
 seaborn
-scikit-learn
+sklearn
 plotly.express
 plotly.graph_objects
 plotly.subplots
