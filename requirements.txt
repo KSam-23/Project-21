@@ -22,3 +22,4 @@ tensorflow  # if you're using deep learning
 torch  # if you're using PyTorch
 streamlit-lottie  # for animations
 streamlit-option-menu  # for custom navigation
+scikit-learn
