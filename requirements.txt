@@ -4,6 +4,6 @@ numpy
 plotly
 matplotlib
 seaborn
-scikit-learn
+scikit-learn==1.0.2
 base64
 os
